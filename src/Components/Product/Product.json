@@ -1,0 +1,341 @@
+{
+    "Product":[{
+                "p_name":"Mobile",
+                "p_id":"P01",
+                "p_desc":"Mobile Product",
+                "p_img":"../../../../Product/mobile.png",
+                "p_subcat":[{
+                                "s_id":"PS01",
+                                "s_name":"Samsung",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":18000,
+                                "s_img":"https://m.media-amazon.com/images/I/71r69Y7BSeL._SL1500_.jpg"
+
+                             },{
+                                "s_id":"PS02",
+                                "s_name":"Nokia",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":25000,
+                                "s_img":"https://images.ctfassets.net/wcfotm6rrl7u/zxBdWU26ZteYjGCWvutx6/90ae0ea62a655d613fe71682b2a4f443/nokia-G20-glacier-front-int.png"
+
+                             },
+                             {
+                                "s_id":"PS03",
+                                "s_name":"Motorola",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":28000,
+                                "s_img":"https://www.91-cdn.com/hub/wp-content/uploads/2021/02/Moto-G200.png?tr=q-100"
+
+                             },
+                             {
+                                "s_id":"PS04",
+                                "s_name":"Lava International",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":15000,
+                                "s_img":"https://5.imimg.com/data5/JC/HD/MY-34727364/lava-z90-4g-mobile-500x500.png"
+
+                             },
+                             {
+                                "s_id":"PS05",
+                                "s_name":"Jio",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":8000,
+                                "s_img":"https://www.jio.com/jiophone2-dual_sim.png"
+
+                             },
+                             {
+                                "s_id":"PS06",
+                                "s_name":"Videocon",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":16000,
+                                "s_img":"https://i.gadgets360cdn.com/large/videocon_ultra30_front_back_small_1481888697776.png?downsize=278:209&output-quality=80"
+
+                             },
+                             {
+                                "s_id":"PS07",
+                                "s_name":"Xolo",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":14000,
+                                "s_img":"https://img.etimg.com/thumb/msid-69743024,width-1200,height-900,imgsize-128998,overlay-etpanache/photo.jpg"
+
+                             },
+                             {
+                                "s_id":"PS08",
+                                "s_name":"Nexian",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":9000,
+                                "s_img":"https://www.ispyprice.com/static/nwprd_model/nexian-nv-45-5558.jpg"
+
+                             },
+                             {
+                                "s_id":"PS09",
+                                "s_name":"Panasonic",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":10000,
+                                "s_img":"https://i.gadgets360cdn.com/products/large/panasonic-eluga-ray-db-499x800-1573819447.png"
+
+                             },
+                             {
+                                "s_id":"PS10",
+                                "s_name":"Sansui",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":15000,
+                                "s_img":"https://m.media-amazon.com/images/I/714othGJxJL._SX679_.jpg"
+
+                             }]
+                },{
+                "p_name":"Tablet",
+                "p_id":"T01",
+                "p_desc":"Tablet Product",
+                "p_img":"https://cdn-icons-png.flaticon.com/512/0/319.png",
+                "p_subcat":[{
+                                "s_id":"TS01",
+                                "s_name":"Samsung",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":20000,
+                                "s_img":"https://img.us.news.samsung.com/us/wp-content/uploads/2021/08/03131111/Galaxy-Tab-S7_FE_MysticBlack_Front-scaled.jpg"
+
+
+                             },{
+                                "s_id":"TS02",
+                                "s_name":"Ipad Air",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":50000,
+                                "s_img":"https://m.media-amazon.com/images/I/616+luSjRAL._AC_SS450_.jpg"
+
+                             },
+                             {
+                                "s_id":"TS03",
+                                "s_name":"Ipad Pro",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":70000,
+                                "s_img":"https://cellbuddy.in/wp-content/uploads/2020/11/iPad-Pro-11-WIFI-128-GB-SG-2020-MY232HN-A-Tablets-491691574-i-4-1200Wx1200H.jpg"
+
+                             },
+                             {
+                                "s_id":"TS04",
+                                "s_name":"Amazon Fire HD 10",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":55000,
+                                "s_img":"https://static.toiimg.com/thumb/resizemode-4,msid-54130113,imgsize-200,width-1200/54130113.jpg"
+
+                             },
+                             {
+                                "s_id":"TS05",
+                                "s_name":"Huawei",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":40000,
+                                "s_img":"https://www.tradeinn.com/f/13806/138068709/huawei-mediapad-t10-2gb-32gb-9.7-tablet.jpg"
+
+                             },
+                             {
+                                "s_id":"TS06",
+                                "s_name":"HCL Tablets",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":35000,
+                                "s_img":"https://m.media-amazon.com/images/I/41pED7rJjSL.jpg"
+
+                             },
+                             {
+                                "s_id":"TS07",
+                                "s_name":"AOC Tablets",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":40000,
+                                "s_img":"https://rukminim1.flixcart.com/image/416/416/tablet/5/a/z/aoc-d70v50g-original-imaefmq9v2eseqt3.jpeg?q=70"
+
+                             },
+                             {
+                                "s_id":"TS08",
+                                "s_name":"KARBONN TABLETS",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":20000,
+                                "s_img":"https://m.media-amazon.com/images/I/61RrDgxOx7L._SL1000_.jpg"
+
+                             },
+                             {
+                                "s_id":"TS09",
+                                "s_name":"Acer Tablets",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":30000,
+                                "s_img":"https://static.acer.com/up/Resource/Acer/Tablets/Iconia%20One%207/Images/20141003/Acer-Tablet-Iconia-One-7-B1-730HD-sku-preview.png"
+
+                             },
+                             {
+                                "s_id":"TS10",
+                                "s_name":"LG Tablets",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":22000,
+                                "s_img":"https://www.lg.com/us/images/cell-phones/v700/gallery/large01.jpg"
+
+                             }
+                            ]
+
+
+
+                },{
+                "p_name":"Laptop",
+                "p_id":"L01",
+                "p_desc":"Laptop Product",
+                "p_img":"https://cdn-icons-png.flaticon.com/512/59/59505.png",
+                "p_subcat":[{
+                                "s_id":"LS01",
+                                "s_name":"MacBook Air",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":150000,
+                                "s_img":"https://i.pcmag.com/imagery/reviews/02pPlSC851BxRP4BFdufSBJ-1..v1605566017.jpg"
+
+
+                             },{
+                                "s_id":"LS02",
+                                "s_name":"MacBook Pro",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":120000,
+                                "s_img":"https://i.gadgets360cdn.com/large/macbook_pro_14_main_ndtv_1640953241324.jpg"
+
+                             },{
+                                "s_id":"LS03",
+                                "s_name":"MacBook Pro 16",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":125000,
+                                "s_img":"https://photos5.appleinsider.com/gallery/45240-88149-The-new-MacBook-Pro-16-inch-xl.jpg"
+
+                             },
+                             {
+                                "s_id":"LS04",
+                                "s_name":"Honor",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":135000,
+                                "s_img":"https://static.toiimg.com/thumb/msid-75808560,width-1200,height-900,resizemode-4/.jpg"
+
+                             },
+                             {
+                                "s_id":"LS05",
+                                "s_name":"Huawei",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":120000,
+                                "s_img":"https://cdn.vox-cdn.com/thumbor/j07ysQjUv4W45Gfx8UksYiw2K8o=/0x292:2040x1360/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22908079/akrales_211005_4788_0095.jpg"
+
+                             },
+                             {
+                                "s_id":"LS06",
+                                "s_name":"Machenike",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":115000,
+                                "s_img":"http://cdn.shopify.com/s/files/1/0576/4110/7626/products/9_0006_3.png?v=1637058893"
+
+                             },
+                             {
+                                "s_id":"LS07",
+                                "s_name":"Microsoft",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":30000,
+                                "s_img":"https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3zva0?ver=6261&q=90&m=8&h=431&w=767&b=%23FFFFFFFF&l=f&x=660&y=184&s=1460&d=821&aim=true"
+
+                             },
+                             {
+                                "s_id":"LS08",
+                                "s_name":"Optima",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":35000,
+                                "s_img":"https://i0.wp.com/www.thetechnoclast.com/wp-content/uploads/2011/09/DSC_25601.jpg"
+
+                             },
+                             {
+                                "s_id":"LS09",
+                                "s_name":"Panasonic",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":40000,
+                                "s_img":"https://na.panasonic.com/us/sites/default/files/styles/product_main/public/2021-08/TB_TOUGHBOOK-55mk2-Front-mk2.jpg?itok=KodJ9mdy"
+
+                             },
+                             {
+                                "s_id":"LS10",
+                                "s_name":"Samsung",
+                                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "price":60000,
+                                "s_img":"https://static.toiimg.com/photo/54238682.cms"
+
+                             }]
+ 
+
+
+                },{
+                    "p_name":"Desktop",
+                    "p_id":"D01",
+                    "p_desc":"Desktop Product",
+                    "p_img":"https://www.freeiconspng.com/thumbs/pc-icon/pc-icon-9.png",
+                    "p_subcat":[{
+                                    "s_id":"DS01",
+                                    "s_name":"HP",
+                                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                    "price":30000,
+                                    "s_img":"https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08049972.png"
+
+    
+                                 },{
+                                    "s_id":"DS02",
+                                    "s_name":"DELL",
+                                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                    "price":60000,
+                                    "s_img":"https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/dbcs-0570-opti-franchise-hero-banner-aio-optiplex-24-7400-desktop-optiplex-7000-mff-sff-1920x1440.png"
+
+                                 },{
+                                    "s_id":"DS03",
+                                    "s_name":"Lenovo",
+                                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                    "price":40000,
+                                    "s_img":"https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MTUyMjQ4fGltYWdlL2pwZ3xoZTgvaDFiLzExMDQwMTcyMjQ1MDIyLmpwZ3w1YmM2Njg1Njg1YTY1NmFkMTdiN2FhMDkzMTNhZjA5ZDU4ZTY5ZDgyYjU2MmQ4MTJiOTNjMzRmZGY2YTQ2MGIx/lenovo-desktop-thinkcentre-m70c-gallery-2.jpg"
+
+                                 },{
+                                    "s_id":"DS04",
+                                    "s_name":"Asus",
+                                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                    "price":50000,
+                                    "s_img":"http://rog.asus.com/wp-content/uploads/2015/09/G11_Windows_10_screen.gif"
+
+                                 },{
+                                    "s_id":"DS05",
+                                    "s_name":"BenQ",
+                                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                    "price":25000,
+                                    "s_img":"https://primeabgb-cdn.sgp1.digitaloceanspaces.com/wp-content/uploads/2019/05/BENQ-GW2283-22-Inch-FHD-Frameless-Monitor-GW2283-300x300.jpg"
+
+                                 },{
+                                    "s_id":"DS06",
+                                    "s_name":"Apple",
+                                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                    "price":35000,
+                                    "s_img":"https://m.media-amazon.com/images/I/616gV6XY+4L._AC_SL1500_.jpg"
+
+                                 },{
+                                    "s_id":"DS07",
+                                    "s_name":"Acer",
+                                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                    "price":22000,
+                                    "s_img":"https://static.acer.com/up/Resource/Acer/Desktop/Aspire%20Z%20Series/Aspire_Z_24/Image/20180713/Acer-Aspire-Z24-890-891-preview.png"
+
+                                 },{
+                                    "s_id":"DS08",
+                                    "s_name":"Mesh Computers",
+                                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                    "price":28000,
+                                    "s_img":"https://cdn.mos.cms.futurecdn.net/63c116fe86effd9c80148a272babc045.jpg"
+
+                                 },{
+                                    "s_id":"DS09",
+                                    "s_name":"Hewlett-Packard",
+                                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                    "price":32000,
+                                    "s_img":"https://rukminim1.flixcart.com/image/612/612/jubjte80/allinone-desktop/y/j/u/hp-22c0028in-original-imaffgxrukshqjbm.jpeg?q=70"
+
+                                 },{
+                                    "s_id":"DS10",
+                                    "s_name":"Compaq",
+                                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                    "price":44000,
+                                    "s_img":"https://5.imimg.com/data5/HF/RN/MY-53563343/compaq-desktop-computer-500x500.jpg"
+
+                                 }]
+                                
+                }]
+}

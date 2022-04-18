@@ -1,0 +1,14 @@
+<ul>
+        {
+          ProductObj.Product.map((prod) => (
+             <React.Fragment key={prod.p_id}>
+               <li><h2>{prod.p_name}</h2></li> 
+               <li><h2>{prod.p_img}</h2></li> 
+
+
+
+
+                  </React.Fragment>
+          ))
+        }
+      </ul>

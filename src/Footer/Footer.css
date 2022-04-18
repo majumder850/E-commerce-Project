@@ -1,0 +1,39 @@
+footer {
+    padding: 5rem 0;
+    background-color: #182334;
+    color: #fff;
+    padding-bottom: 40px;
+  }
+  
+  footer h2 {
+    color: #fff;
+  }
+  
+  footer li {
+    list-style: none;
+    font-size: 1.5rem;
+    font-weight: lighter;
+    color: #fff;
+    cursor: pointer;
+    margin: 1rem 0;
+  }
+
+  
+
+
+
+  
+  footer .para {
+    margin: 0;
+  }
+
+
+  footer .list
+  {
+    text-decoration: none;
+    font-size: 23px;
+  }
+
+  footer .list:hover {
+    color: #fff;
+  }
