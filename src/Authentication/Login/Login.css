@@ -37,5 +37,80 @@
 {
     font-size: 20px;
     color: red;
-    font-weight: bold;
+    font-weight: bolder;
+    margin-right: 13vh;
+    margin-top: 2vh
 }
+
+.login
+{
+  margin-bottom: 50px;
+  margin-top: 10px;
+  color:#ace600;
+  font-weight: bolder;
+ 
+}
+
+.em
+{
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-right: 25vh;
+  color:#ace600;
+  font-weight: bolder;
+}
+
+.input1
+{
+  margin-right: 18vh;
+  padding:8px;
+  width: 50vh;
+  margin-left: 28vh;
+}
+
+.pass
+{
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-right: 13vh;
+  color:#ace600;
+  font-weight: bolder;
+}
+
+.input2
+{
+  margin-right: 18vh;
+  padding:8px;
+  width: 50vh;
+  margin-left: 28vh;
+}
+
+.invalid2
+{
+  font-size: 20px;
+  color: red;
+  font-weight: bolder;
+  margin-right: 8vh;
+  margin-top: 2vh
+}
+
+.btnLogin
+{
+  margin-right: 20vh;
+  padding: 10vh;
+  width: 20vh;
+}
+
+/* .a .notMem
+{
+  margin-right: 10vh;
+  font-weight: bolder;
+  font-size: 30x ;
+ 
+}
+
+Link {
+  color: #0d6efd;
+  text-decoration: none;
+ 
+} */

@@ -1,0 +1,83 @@
+{
+    "Flat":[{
+            "f_id":"FS01",
+            "f_name":"Lifelong LLMG45 Power Pro",
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "price":1371,
+            "f_img":"https://m.media-amazon.com/images/I/61bXh-sS7uL._SX679_.jpg"
+
+          },
+          {
+            "f_id":"FS02",
+            "f_name":"DUBBLIN Polo Stainless Steel",
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "price":276,
+            "f_img":"https://m.media-amazon.com/images/I/41Yoe1UgIGS._SX679_.jpg"
+    
+          },
+          {
+            "f_id":"FS03",
+            "f_name":"Faber-Castell Grip",
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "price":152,
+            "f_img":"https://m.media-amazon.com/images/I/71CiDd6Y0GL._SX679_.jpg"
+    
+              },
+              {
+             "f_id":"FS04",
+             "f_name":"ESR iPad 9th Generation Cover with Pencil Holder",
+             "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+             "price":1399,
+             "f_img":"https://m.media-amazon.com/images/I/71byVOxfTwL._SX679_.jpg"
+        
+              },
+              {
+                "f_id":"FS05",
+                "f_name":"HINMIN Smart Night Light",
+                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price":429,
+                "f_img":"https://m.media-amazon.com/images/I/61uYG4ACLoS._SX679_.jpg"
+        
+               },
+               {
+                 "f_id":"FS06",
+                 "f_name":"Kellogg's Corn Flakes Original",
+                 "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                 "price":385,
+                 "f_img":"https://m.media-amazon.com/images/I/71XazcKS4PL._SX679_.jpg"
+            
+                },
+                {
+                 "f_id":"FS07",
+                 "f_name":"Nestle KITKAT Dessert Delight",
+                 "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                 "price":720,
+                 "f_img":"https://m.media-amazon.com/images/I/61QpWTG1+2S._SX679_PIbundle-12,TopRight,0,0_AA679SH20_.jpg"
+            
+                 },
+                 {
+                    "f_id":"FS08",
+                    "f_name":"Logitech H110 Wired headset",
+                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "price":740,
+                    "f_img":"https://m.media-amazon.com/images/I/61IWe1ZAgcL._SX679_.jpg"
+            
+                 },
+                 {
+                    "f_id":"FS09",
+                    "f_name":"rts Universal Travel Adapter",
+                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "price":598,
+                    "f_img":"https://m.media-amazon.com/images/I/611RCy1XjsL._SY879_.jpg"
+            
+                 },
+                 {
+                    "f_id":"FS10",
+                    "f_name":"boAt Stone 352 Bluetooth Speaker ",
+                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "price":1399,
+                    "f_img":"https://m.media-amazon.com/images/I/71nJ9J9K5DL._SX569_.jpg"
+            
+                 }
+           ]
+}

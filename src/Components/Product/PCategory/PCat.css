@@ -1,0 +1,6 @@
+.carousel-indicators li { visibility: hidden; }
+
+.divFourth
+{
+    background: linear-gradient(to top right, #66ff66 0%, #3366ff 100%);
+}

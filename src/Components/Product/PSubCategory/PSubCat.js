@@ -20,8 +20,10 @@ export default function PSubCat() {
 
   return (
     <div>
+
+<div  className="divFifth">
          <Container>
-        <h2>{productData.p_name}</h2>
+      
         <br />
        
 
@@ -30,18 +32,23 @@ export default function PSubCat() {
 
           {        
             productData.p_subcat.map((psub) => (
-              <Col key={psub.id}>
+              <Col >
                 <>
                   {/* <h4>{psub.s_name}</h4> */}
                   {/* <h6>{psub.desc}</h6> */}
 
-                   <Card style={{ width: '18rem' }}>
-                     <Card.Img variant="top" src={psub.s_img} style={{height:'40vh'}}/>
+                   <Card key={psub.id} style={{
+                marginBottom: "150px", marginTop: "55px", marginLeft: "20px",
+                height: "70vh", width: "35vh", border:"2px solid black", boxShadow: "5px 8px"
+            }}>
+                     <Card.Img variant="top" src={psub.s_img} style={{ height: '27vh', padding: "15px", objectFit:"contain"  }}/>
                     <Card.Body>
                       <Card.Title>{psub.s_name}</Card.Title>
                       <Card.Text>
                         {psub.desc}
                       </Card.Text>
+                      <br/>
+                      <br/>
                       <Button variant="warning">
                         <Link to={`/details/${data.prodname}/${psub.s_name}`}>
                           Show details</Link>
@@ -54,6 +61,8 @@ export default function PSubCat() {
           }
         </Row>
       </Container> 
+
+      </div>
     </div>
   )
 }

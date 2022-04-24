@@ -9,8 +9,15 @@ import Reg from '../Authentication/Registration/Reg'
 
 
 import About from '../Components/About/About'
+import BDetails from '../Components/Best/BestDetails/BDetails'
+import BSubCat from '../Components/Best/BestSubCategory/BSubCat'
+import Card from '../Components/Card/Card'
 import Contact from '../Components/Contact/Contact'
+import FDetails from '../Components/Flat/FlatDetails/FDetails'
+import FSubCat from '../Components/Flat/FlatSubCategory/FSubCat'
 import Home from '../Components/Home/Home'
+import NDetails from '../Components/New/NewDetails/NDetails'
+import NSubCat from '../Components/New/NewSubCategory/NSubCat'
 import PNF from '../Components/PageNotFound/PNF'
 import PCat from '../Components/Product/PCategory/PCat'
 import PDetails from '../Components/Product/PDetails/PDetails'
@@ -54,8 +61,19 @@ export default function RootRoutes() {
           <Route path="details/:prodname/:subname" element={<PDetails />} />
 
 
+          <Route path="NewPage" element={<NSubCat/>} />
+          <Route path="nsubcat/:nprodname" element={< NDetails/>} />
+
+          <Route path="BestPage" element={<BSubCat/>} />
+          <Route path="bsubcat/:bprodname" element={< BDetails/>} />
+
+          <Route path="FlatPage" element={<FSubCat/>} />
+          <Route path="fsubcat/:fprodname" element={< FDetails/>} />
+
+
           <Route path="AboutPage" element={<About />} />
           <Route path="ContactPage" element={<Contact />} />
+          <Route path="CardPage" element={<Card />} />
          
          
  

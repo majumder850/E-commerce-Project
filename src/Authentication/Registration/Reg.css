@@ -54,16 +54,96 @@
       display: flex;
       align-items: center;
       flex-direction: column;
-      height: 80vh;
-      width: 30vw;
+      height: 110vh;
+      width: 43vw;
       background: rgba(255, 255, 255, 0.15);
-      box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+      box-shadow: 0 8px 32px 0 rgb(31 38 135 / 37%);
       backdrop-filter: blur(8.5px);
       -webkit-backdrop-filter: blur(8.5px);
       border-radius: 10px;
       color: #ffffff;
       text-transform: uppercase;
       margin-left: 74vh;
-      padding-top: 10vh;
+      padding-top: 16vh;
+      padding-bottom: 18vh;
+      margin-left: 60vh;
+    
      
   }
+
+
+
+  .signup
+{
+  margin-bottom: 50px;
+  margin-top: 10px;
+  color:#ace600;
+  font-weight: bolder;
+ 
+}
+
+.un{
+    font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-right: 16vh;
+  color:#ace600;
+  font-weight: bolder;
+}
+.input1
+{
+  margin-right: 18vh;
+  padding:8px;
+  width: 50vh;
+  margin-left: 28vh;
+}
+
+.invalid
+{
+    font-size: 20px;
+    color: red;
+    font-weight: bolder;
+    margin-right: 13vh;
+    margin-top: 2vh
+}
+
+.em
+{
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-right: 25vh;
+  color:#ace600;
+  font-weight: bolder;
+}
+
+.input2
+{
+  margin-right: 18vh;
+  padding:8px;
+  width: 50vh;
+  margin-left: 28vh;
+}
+
+.invalid2
+{
+  font-size: 20px;
+  color: red;
+  font-weight: bolder;
+  margin-right: 8vh;
+  margin-top: 2vh
+}
+
+.pass
+{
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-right: 13vh;
+  color:#ace600;
+  font-weight: bolder;
+}
+
+.btnSignup
+{
+  margin-right: 20vh;
+  padding: 10vh;
+  width: 20vh;
+}

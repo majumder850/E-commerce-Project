@@ -3,6 +3,7 @@ import './Reg.css'
 import { useFormik } from 'formik'
 import axios from 'axios'
 import { useNavigate } from 'react-router-dom';
+import { Button} from 'react-bootstrap';
 
 const validateForm=(formValue)=>{
         let errors={};
@@ -75,42 +76,50 @@ export default function Reg() {
         <div>
         <form onSubmit={formik.handleSubmit} className='rtu'>
 
-          <h2 style={{marginTop:0}}>Sign Up</h2>
+          <h2 style={{marginTop:0}} className="signup">REGISTRATION FORM</h2>
+          <br/>
 
-            <label htmlFor="uname" >user name:</label> 
+            <label htmlFor="uname" className='un'>user name:</label> 
             <br/>
             <input type="text" 
             name="uname" 
             placeholder="Enter user name" 
             value={formik.values.uname}
             onChange={formik.handleChange}
-            onBlur={formik.handleBlur}/>
-            {formik.touched.uname && formik.errors.uname ? (<span>{formik.errors.uname}</span>):null}
+            onBlur={formik.handleBlur}  className="input1"/>
+            {formik.touched.uname && formik.errors.uname ? (<span className='invalid'>{formik.errors.uname}</span>):null}
             <br/>
+            <br/>
+            
 
 
-            <label htmlFor="email">Email:</label>
+            <label htmlFor="email" className="em">Email:</label>
             <br/>
             <input type="email" name="email" 
             placeholder="Enter email"
             value={formik.values.email}
             onChange={formik.handleChange}
-            onBlur={formik.handleBlur}/>
-            {formik.touched.email && formik.errors.email ? (<span>{formik.errors.email}</span>):null}
+            onBlur={formik.handleBlur}
+            className="input2"/>
+            {formik.touched.email && formik.errors.email ? (<span className='invalid2'>{formik.errors.email}</span>):null}
+            <br/>
             <br/>
 
 
-            <label htmlFor="password">Password:</label>
+            <label htmlFor="password" className="pass">Password:</label>
             <br/>
             <input type="password" name="password" 
             placeholder="Enter password"
             value={formik.values.password}
             onChange={formik.handleChange}
-            onBlur={formik.handleBlur}/>
-            {formik.touched.password && formik.errors.password ? (<span>{formik.errors.password}</span>):null}
+            onBlur={formik.handleBlur}
+            className="input2"
+
+           />
+            {formik.touched.password && formik.errors.password ? (<span >{formik.errors.password}</span>):null}
             <br/>
             <br/>
-            <button type='submit' disabled={!(formik.isValid && formik.dirty)}>Press here</button>
+            <Button type='submit' variant="info" disabled={!(formik.isValid && formik.dirty)}className="btnSignup">Press here</Button>
             
        </form> 
        </div>

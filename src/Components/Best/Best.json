@@ -1,0 +1,83 @@
+{
+    "Best":[{
+            "b_id":"BS01",
+            "b_name":"EH-249-BL Blue Day",
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "price":312,
+            "b_img":"https://rukminim2.flixcart.com/image/800/960/kklhbbk0/watch/t/2/t/eh-249-bl-eddy-hager-original-imafzwtfaqar55gz.jpeg?q=50"
+
+          },
+          {
+            "b_id":"BS02",
+            "b_name":"ANLG-428-BLUE-BLU",
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "price":251,
+            "b_img":"https://rukminim2.flixcart.com/image/800/960/kpodocw0/watch/p/l/t/anlg-428-blue-blu-analogue-original-imag3uxbhfkyhahf.jpeg?q=50"
+    
+          },
+          {
+            "b_id":"BS03",
+            "b_name":"Metal Jewel Set",
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "price":201,
+            "b_img":"https://rukminim2.flixcart.com/image/800/960/l0r1j0w0/jewellery-set/m/v/x/na-na-traditional-stylish-choker-necklace-with-earrings-for-original-imagcgpk4vpnwpcn.jpeg?q=50"
+    
+              },
+              {
+             "b_id":"BS04",
+             "b_name":"Alloy Gold-plated",
+             "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+             "price":269,
+             "b_img":"https://rukminim2.flixcart.com/image/800/960/kw104nk0/jewellery-set/v/x/2/na-na-skr85848-sukkhi-original-imag8stey8gyygvg.jpeg?q=50"
+        
+              },
+              {
+                "b_id":"BS05",
+                "b_name":"HP V236w 32 GB Pen Drive ",
+                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price":376,
+                "b_img":"https://rukminim2.flixcart.com/image/832/832/kfsl18w0/pendrive/pendrive/z/x/v/hp-v236w-original-imafw69vfhuvrzgr.jpeg?q=70"
+        
+               },
+               {
+                 "b_id":"BS06",
+                 "b_name":"Reynolds Jiffy Gel Blue Pen ",
+                 "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                 "price":115,
+                 "b_img":"https://rukminim2.flixcart.com/image/832/832/l13whow0/pen/s/1/g/-original-imagcr27hyxurqfq.jpeg?q=70"
+            
+                },
+                {
+                 "b_id":"BS07",
+                 "b_name":"Men K1405G M Blue Sandal",
+                 "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                 "price":569,
+                 "b_img":"https://rukminim2.flixcart.com/image/800/960/kj7gwi80-0/sandal/k/7/a/10-k1405g-blue-grey-10-paragon-blue-grey-original-imafytzt9hagk487.jpeg?q=50"
+            
+                 },
+                 {
+                    "b_id":"BS08",
+                    "b_name":"Clean & Clear Face Wash ",
+                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "price":345,
+                    "b_img":"https://rukminim2.flixcart.com/image/832/832/kjkbv680-0/face-wash/l/r/7/450-face-wash-clean-clear-original-imafz3hz4fgwhfnf.jpeg?q=70"
+            
+                 },
+                 {
+                    "b_id":"BS09",
+                    "b_name":"U&i Ozone 40 Hours Music",
+                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "price":449,
+                    "b_img":"https://rukminim2.flixcart.com/image/832/832/l0lbrm80/headphone/k/g/9/ozone-40-hours-music-time-wireless-neckband-with-mic-u-i-original-imagcchvb2xhtnt6.jpeg?q=70"
+            
+                 },
+                 {
+                    "b_id":"BS10",
+                    "b_name":"COMBO PACK OF 3 ",
+                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "price":299,
+                    "b_img":"https://rukminim2.flixcart.com/image/800/960/l0cr4i80/cap/v/x/p/free-combo-pack-of-3-watch-01-cap-01-sunglass-01-flexcy-original-imagc654wtvthuhb.jpeg?q=50"
+            
+                 }
+           ]
+}

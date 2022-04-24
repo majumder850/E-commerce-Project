@@ -1,0 +1,83 @@
+{
+    "New":[{
+            "n_id":"NS01",
+            "n_name":"Sneakers For Men",
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "price":630,
+            "n_img":"https://rukminim2.flixcart.com/image/800/960/kuof5ow0/shoe/i/a/t/10-rpd102-44-rapidbox-white-original-imag7qu9s565wh6u.jpeg?q=50"
+
+          },
+          {
+            "n_id":"NS02",
+            "n_name":"Revolution 6 Next Nature Road",
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "price":2200,
+            "n_img":"https://rukminim2.flixcart.com/image/800/960/l26hdow0/shoe/l/z/l/-original-imagdkvfzar24kha.jpeg?q=50"
+    
+          },
+          {
+            "n_id":"NS03",
+            "n_name":"Redgear A-15 Wired Optical Gaming Mouse",
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "price":399,
+            "n_img":"https://rukminim2.flixcart.com/image/832/832/knyxqq80/mouse/r/k/p/a-15-redgear-original-imag2gvwkhcacmth.jpeg?q=70"
+    
+              },
+              {
+             "n_id":"NS04",
+             "n_name":"Logitech G102 Light Sync Wired",
+             "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+             "price":1470,
+             "n_img":"https://rukminim2.flixcart.com/image/832/832/kp1imq80/mouse/6/9/j/g102-light-sync-logitech-original-imag3d4rzzzyrfxd.jpeg?q=70"
+        
+              },
+              {
+                "n_id":"NS05",
+                "n_name":"KADENCE Concert Ukulele 23",
+                "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price":2049,
+                "n_img":"https://rukminim2.flixcart.com/image/832/832/korijrk0/ukulele/g/c/b/kad-uk23-tw-c-kadence-original-imag35fxztgjcnr8.jpeg?q=70"
+        
+               },
+               {
+                 "n_id":"NS06",
+                 "n_name":"Medellin MED-BLU-C Acoustic Guitar",
+                 "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                 "price":2199,
+                 "n_img":"https://rukminim2.flixcart.com/image/832/832/kr3tj0w0/acoustic-guitar/1/a/x/med-blu-c-medellin-original-imag4yumkdhun5vn.jpeg?q=70"
+            
+                },
+                {
+                 "n_id":"NS07",
+                 "n_name":"BAJAJ 740300 Induction Cooktop",
+                 "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                 "price":3899,
+                 "n_img":"https://rukminim2.flixcart.com/image/832/832/kuk4u4w0/induction-cook-top/e/k/o/magnifique-740300-bajaj-original-imag7nxe5vfgtzqj.jpeg?q=70"
+            
+                 },
+                 {
+                    "n_id":"NS08",
+                    "n_name":"Welltech M5 Smart Band Partner ",
+                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "price":612,
+                    "n_img":"https://rukminim2.flixcart.com/image/832/832/kzrbiq80/smart-band-tag/t/f/d/tft-lcd-no-free-7-yes-yes-m5-sw-android-ios-welltech-yes-original-imagbp7qdcpgrwgj.jpeg?q=70"
+            
+                 },
+                 {
+                    "n_id":"NS09",
+                    "n_name":"D-Link DIR-819 750 Mbps",
+                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "price":1399,
+                    "n_img":"https://rukminim2.flixcart.com/image/832/832/kg5fzww0pkrrdj/router-refurbished/m/9/h/a-dir-819-d-link-original-imafwjfvpfynagup.jpeg?q=70"
+            
+                 },
+                 {
+                    "n_id":"NS10",
+                    "n_name":"Gradient Wayfarer",
+                    "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "price":209,
+                    "n_img":"https://rukminim2.flixcart.com/image/800/960/k6fd47k0/sunglass/z/y/h/m-9095bvc-hipe-original-imafgyhyqgcawnek.jpeg?q=50"
+            
+                 }
+           ]
+}

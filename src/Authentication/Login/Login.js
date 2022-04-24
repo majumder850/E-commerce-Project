@@ -71,32 +71,41 @@ export default function Login() {
 
           
 
-
-            <label htmlFor="email">Email:</label>
+            <h2 style={{marginBotton:"50px"}} className="login">Log In Form</h2>
+            <br/>
+            <label htmlFor="email" className='em'>Email:</label>
             <br/>
             <input type="email" name="email" 
             placeholder="Enter email"
             value={formik.values.email}
             onChange={formik.handleChange}
-            onBlur={formik.handleBlur}/>
+            onBlur={formik.handleBlur} className="input1"/>
             {formik.touched.email && formik.errors.email ? (<span className='invalid'>{formik.errors.email}</span>):null}
             <br/>
+            <br/>
+            <br/>
+
 
             
-            <label htmlFor="password">Password:</label>
+            <label htmlFor="password" className="pass">Password:</label>
             <br/>
             <input type="password" name="password" 
             placeholder="Enter password"
             value={formik.values.password}
             onChange={formik.handleChange}
-            onBlur={formik.handleBlur}/>
-            {formik.touched.password && formik.errors.password ? (<span className='invalid'>{formik.errors.password}</span>):null}
+            onBlur={formik.handleBlur}
+            className="input2"
+           />
+            {formik.touched.password && formik.errors.password ? (<span className='invalid2'>{formik.errors.password}</span>):null}
             <br/>
             <br/>
-            <button type='submit' disabled={!(formik.isValid && formik.dirty)}>Press here</button>
+            <Button type='submit' variant="info" disabled={!(formik.isValid && formik.dirty)} className="btnLogin">Press here</Button>
+            <br/>
+            <br/>
 
 
-           <Link to='/RegPage'>Not a member? Register here</Link>
+           <Link to='/RegPage' className='notMem' style={{marginLeft: "2vh", fontWeight: "bolder",
+  fontSize: "22px "}}>Not a member? Register here</Link>
      
             
        </form> 

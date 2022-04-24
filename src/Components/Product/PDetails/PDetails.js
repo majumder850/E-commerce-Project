@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, Container, Row, Col } from 'react-bootstrap';
+import { Card, Container, Row, Col, Button } from 'react-bootstrap';
 import { useParams, Link } from 'react-router-dom'
 import ProductObj from '../Product.json';
 
@@ -18,20 +18,31 @@ export default function PDetails() {
 
     return (
         <div>
-      
+       <div className='flex-parent'>
+            <Row xs={1} md={4} className="g-4" >
+                <Col  className="card1">
+                <Card  >
+                    <Card.Img variant="top" src={singleProduct.s_img} style={{objectFit:"contain"}}/>
+                    
+                </Card>
+                </Col>
 
-
-
-            <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src={singleProduct.s_img} style={{ height: '50vh' }} />
-                <Card.Body>
-                    <Card.Title>{singleProduct.s_name}</Card.Title>
-                    <Card.Text>
-                    {singleProduct.desc}
-                    </Card.Text>
-                    <Card.Text><p>Price: {singleProduct.price}</p></Card.Text>
-                </Card.Body>
-            </Card>
+                <Col className="card1" >
+                <Card.Body  >
+                        <h2 >{singleProduct.s_name}</h2>
+                        <br/>
+                        
+                        <Card.Text>
+                        {singleProduct.desc}
+                        </Card.Text>
+                        <br/>
+                        <Card.Text style={{fontSize:"30px"}}><b >Price: {singleProduct.price}</b></Card.Text>
+                    
+                        <Button variant="primary"><Link to="/CardPage" style={{textDecoration:"none", color:"white"}}>Buy Now</Link></Button>
+                    </Card.Body>
+                </Col>
+                </Row>
+            </div>
         </div>
     )
 }
